@@ -1,2 +1,2 @@
-# NovaCoding
-Source Codes for Front-end developers
+# Brief Introduction of ME!
+Front-End Developer - Looking For Job
