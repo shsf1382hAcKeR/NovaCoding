@@ -1,2 +1,11 @@
 # Brief Introduction of ME!
-Front-End Developer - Looking For Job
+Started in 2020 | 3+ Freelance **Experience** | Member Of **Novacoding** Web Design Personal Agency 
+
+# MY RESUME
+[Download PDF](/MyResume.pdf) | Full Portfolio
+
+# Contact Me
+**Telegram** : [@shsf1382](https://t.me/shsf1382)
+|
+**Email** : [Shsf1382@gmail.com](mailto:shsf1382@gmail.com)
+/ more Contact info in CV
