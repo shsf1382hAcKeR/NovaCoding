@@ -1,5 +1,5 @@
 # Brief Introduction of ME!
-Started in 2020 | 3+ Freelance **Experience** | Member Of **Novacoding** Web Design Personal Agency 
+Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://github.com/NovaCodingInc) Web Design Personal Agency 
 
 # MY RESUME
 [Download PDF](/MyResume.pdf) | Full Portfolio
