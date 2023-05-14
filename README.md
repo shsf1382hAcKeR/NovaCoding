@@ -8,4 +8,4 @@ Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://g
 **Telegram** : [@shsf1382](https://t.me/shsf1382)
 |
 **Email** : [Shsf1382@gmail.com](mailto:shsf1382@gmail.com)
-/ more Contact info in CV
+/ More contact info in CV
