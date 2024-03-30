@@ -1,30 +1,27 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Brief Introduction of ME!</h1></summary>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,sass,less,js,ts,vue,react,angular,nextjs,nuxt,threejs,py,flask,md,figma,discord,vscode,atom,notion,postman,neovim,vite,webpack,yarn,pnpm,npm,bun,git,github,linux,windows,debian,powershell,bash&perline=19" />
+  </a>
+</p>
+
+# Brief Introduction of ME!
 
 Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://github.com/NovaCodingInc) Web Design Personal Agency | Working Remote At [VLANDS](https://vlands.ir)
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">MY RESUME</h1></summary>
-  </ul>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# MY RESUME
 
 [Download PDF](/MyResume.pdf) | Full Portfolio
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Contact Me</h1></summary>
-  </ul>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Contact me
 
 **Telegram** : [@shsf1382](https://t.me/shsf1382)
 |
@@ -34,7 +31,7 @@ Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://g
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">MY STATS</h1></summary>
+    <summary><h2 style="display: inline-block">My Stats 📊</h2></summary>
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,19 +55,4 @@ Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://g
 </tr>
 </table>
 <!--- stats (end) -->
-</p>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,sass,less,js,ts,vue,react,angular,nextjs,nuxt,threejs,py,flask,md,figma,discord,vscode,atom,notion,postman,neovim,vite,webpack,yarn,pnpm,npm,bun,git,github,linux,windows,debian,powershell,bash&perline=19" />
-  </a>
 </p>
