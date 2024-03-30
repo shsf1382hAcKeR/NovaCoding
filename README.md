@@ -42,15 +42,14 @@ Started in 2020 | 3+ Freelance **Experience** | Member Of [NovaCoding](https://g
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-siavash-samadis-projects.vercel.app/api?username=shsf1382hAcKeR&theme=dark&show_icons=true&count_private=true" />
+  ![shsf1382's GitHub stats](https://github-readme-stats-siavash-samadis-projects.vercel.app/api?username=shsf1382hAcKeR&theme=dracula&show_icons=true&count_private=true)
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shsf1382hAcKeR&theme=dark&hide_border=false" /> 
+   ![🔥 Get streak stats for your profile at git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=shsf1382hAcKeR&theme=dracula&hide_border=false)
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats-siavash-samadis-projects.vercel.app/api/top-langs/?username=shsf1382hAcKeR&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
+![shsf1382's GitHub stats](https://github-readme-stats-siavash-samadis-projects.vercel.app/api/top-langs/?username=shsf1382hAcKeR&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=20)
   </td>
 </tr>
 </table>
